@@ -1,3 +1,6 @@
+# Ambiente conda do projeto
+movie_productions_analytics/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
