@@ -64,5 +64,5 @@ O notebook apresenta um roteiro analítico completo, incluindo:
 
 ## Autor
 
-Renan Azevedo dos Santos
+Renan Azevedo
 Especialista em Data Science e Machine Learning
